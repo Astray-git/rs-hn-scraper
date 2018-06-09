@@ -1,0 +1,8 @@
+[package]
+name = "rs-hn-scraper"
+version = "0.1.0"
+authors = ["Astray-git <lyc001wow@gmail.com>"]
+
+[dependencies]
+reqwest = "0.8.6"
+scraper = "0.6.0"
